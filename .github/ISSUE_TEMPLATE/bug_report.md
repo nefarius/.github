@@ -1,7 +1,7 @@
 ---
 name: 🛠️ Bug report
 about: Let us know that something isn't working as intended
-title: ''
+title: 'Give me a short and meaningful summary'
 labels: ''
 assignees: ''
 
@@ -41,14 +41,16 @@ Describe here the issue that you are experiencing.
 **Expected result:** Describe here what should happen after you run the steps above (i.e. what would be the correct behaviour)
 
 ### Screenshots
+
 <!-- you can drag and drop images below -->
 
-
 ### Machine info
+
 <!-- replace the examples with your info -->
 **CPU-Architecture:** x86, x64, ARM, ARM64, ...
 **Windows version:** Windows 10 20H2
 **Software/driver version(s):** 1.4.14
 
 ### Any other helpful information
+
 <!-- keep in mind the receiver of this issue isn't psychic so provide as much information that may be relevant to the issue as possible -->

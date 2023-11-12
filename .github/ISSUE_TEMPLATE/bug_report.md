@@ -13,10 +13,10 @@ You can also preview your report before submitting it. You may remove sections t
 Before we begin, please note that this tracker is only for issues. It is not for questions, comments, or feature requests.
 
 If you would like to discuss a new feature or submit suggestions, please visit:
-https://vigem.org/Community-Support/
+https://docs.nefarius.at/Community-Support/
 
 If you are looking for support, please visit:
-https://vigem.org/Community-Support/
+https://docs.nefarius.at/Community-Support/
 
 Let's begin with a checklist: Replace the empty checkboxes [ ] below with checked ones [x] accordingly. -->
 
